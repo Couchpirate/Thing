@@ -1,0 +1,40 @@
+Class promotions:
+- Fighter
+-- Warrior
+--- Berserker
+--- Viking
+-- Myrmidon
+--- Swordmaster
+--- Samurai
+
+- Sorcerer
+-- Sage
+--- Summoner
+--- Illusionist
+-- Dark Mage
+--- Necromancer
+--- Shaman
+
+- Archer
+-- Ranger
+--- Nomad
+--- Beastmaster
+-- Hunter
+--- Sniper
+--- Trapper
+
+- Rogue
+-- Assassin
+--- Ninja
+--- 
+-- Thief
+--- Trickster  
+--- Outlaw
+
+- Cleric
+-- Conjurer
+--- Mystic
+--- 
+-- Priest
+--- Bishop
+--- Paladin
