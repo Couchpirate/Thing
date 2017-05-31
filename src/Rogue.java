@@ -1,4 +1,5 @@
 
+
 public class Rogue extends CharacterClass {
 
 	EnergyResource er = new EnergyResource();

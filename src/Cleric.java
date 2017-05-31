@@ -1,4 +1,5 @@
 
+
 public class Cleric extends CharacterClass {
 
 	ManaResource mr = new ManaResource();

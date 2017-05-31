@@ -1,4 +1,5 @@
 
+
 public class Sorcerer extends CharacterClass {
 
 	ManaResource mr = new ManaResource();

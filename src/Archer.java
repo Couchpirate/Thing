@@ -1,4 +1,5 @@
 
+
 public class Archer extends CharacterClass {
 
 	EnergyResource er = new EnergyResource();

@@ -1,4 +1,5 @@
 
+
 public class Fighter extends CharacterClass {
 
 	RageResource rr = new RageResource();
